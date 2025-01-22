@@ -1,4 +1,4 @@
-# Silus-Gaming-World (silusblog.bauska.org)
+# Silus-Gaming-World (silusSpider.bauska.org)
 
 <details>
   <summary>Poem: Silus Gaming World</summary>
